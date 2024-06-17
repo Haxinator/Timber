@@ -1,0 +1,40 @@
+﻿  Timber.cpp
+C:\VS Projects\Timber\Timber.cpp(68,39): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Timber\Timber.cpp(69,39): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Timber\Timber.cpp(71,39): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Timber\Timber.cpp(196,108): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Timber\Timber.cpp(196,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Timber\Timber.cpp(200,106): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Timber\Timber.cpp(345,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\VS Projects\Timber\Timber.cpp(374,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\VS Projects\Timber\Timber.cpp(435,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber\Timber.cpp(440,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber\Timber.cpp(474,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber\Timber.cpp(478,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber\Timber.cpp(505,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\VS Projects\Timber\Timber.cpp(515,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\VS Projects\Timber\Debug\Timber.exe
